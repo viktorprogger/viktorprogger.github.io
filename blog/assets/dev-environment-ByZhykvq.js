@@ -1,0 +1,1 @@
+var e=`/blog/dev-environment.webp`;export{e as t};

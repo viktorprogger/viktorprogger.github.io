@@ -1,0 +1,1 @@
+var e=`/blog/choice.jpg`;export{e as t};
