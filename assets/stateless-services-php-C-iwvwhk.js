@@ -1,0 +1,1 @@
+var e=`/stateless-services-php.png`;export{e as t};

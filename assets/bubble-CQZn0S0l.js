@@ -1,0 +1,1 @@
+var e=`/bubble.jpg`;export{e as t};

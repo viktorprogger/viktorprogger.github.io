@@ -1,1 +1,0 @@
-var e=`/blog/stateless-services-php.png`;export{e as t};

@@ -1,0 +1,1 @@
+var e=`/choice.jpg`;export{e as t};

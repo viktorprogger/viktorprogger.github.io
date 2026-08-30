@@ -1,0 +1,1 @@
+var e=`/photo.jpg`;export{e as t};

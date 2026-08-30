@@ -1,0 +1,1 @@
+var e=`/dev-environment.webp`;export{e as t};

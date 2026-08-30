@@ -1,0 +1,1 @@
+var e=`/opensource.jpg`,t=`/tom_jerry_wait.jpg`;export{e as n,t};

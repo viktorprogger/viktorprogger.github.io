@@ -1,0 +1,1 @@
+var e=`/http-502-bad-gateway.jpg`;export{e as t};
